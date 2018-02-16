@@ -872,7 +872,7 @@ var LANGUAGES_LIST = {
     name: 'Chechen',
     nativeName: 'нохчийн мотт'
   },
-  ch: {
+  cha: {
     name: 'Chamorro',
     nativeName: 'Chamoru'
   },
@@ -1525,6 +1525,10 @@ var LANGUAGES_LIST = {
     nativeName: '中文'
   },
   "zh-cn": {
+    name: 'Simplified Chinese',
+    nativeName: '简化字'
+  },
+  "zh-ch": {
     name: 'Simplified Chinese',
     nativeName: '简化字'
   },
