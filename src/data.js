@@ -223,13 +223,25 @@ const LANGUAGES_LIST = {
     name: 'Hausa',
     nativeName: 'هَوُسَ',
   },
+  haw: {
+    name: 'Hawaiian',
+    nativeName: 'ʻŌlelo Hawaiʻi',
+  },
   he: {
+    name: 'Hebrew',
+    nativeName: 'עברית',
+  },
+  iw: {
     name: 'Hebrew',
     nativeName: 'עברית',
   },
   hi: {
     name: 'Hindi',
     nativeName: 'हिन्दी',
+  },
+  hmn: {
+    name: 'Hmong',
+    nativeName: 'Tiếng H\'Mông',
   },
   ho: {
     name: 'Hiri Motu',
@@ -301,7 +313,11 @@ const LANGUAGES_LIST = {
   },
   jv: {
     name: 'Javanese',
-    nativeName: 'basa Jawa',
+    nativeName: 'ꦧꦱꦗꦮ',
+  },
+  jw: {
+    name: 'Javanese',
+    nativeName: 'ꦧꦱꦗꦮ',
   },
   ka: {
     name: 'Georgian',
@@ -504,7 +520,7 @@ const LANGUAGES_LIST = {
     nativeName: 'ирон æвзаг',
   },
   pa: {
-    name: 'Panjabi',
+    name: 'Punjabi',
     nativeName: 'ਪੰਜਾਬੀ',
   },
   pi: {
@@ -667,7 +683,7 @@ const LANGUAGES_LIST = {
     name: 'Tatar',
     nativeName: 'татар теле',
   },
-  tw: {
+  twi: {
     name: 'Twi',
     nativeName: 'Twi',
   },
@@ -730,6 +746,18 @@ const LANGUAGES_LIST = {
   zh: {
     name: 'Chinese',
     nativeName: '中文',
+  },
+  "zh-cn": {
+    name: 'Simplified Chinese',
+    nativeName: '简化字',
+  },
+  "zh-tw": {
+    name: 'Traditional Chinese',
+    nativeName: '正體字',
+  },
+  "tw": {
+    name: 'Traditional Chinese',
+    nativeName: '正體字',
   },
   zu: {
     name: 'Zulu',
