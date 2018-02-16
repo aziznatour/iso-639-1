@@ -755,7 +755,7 @@ const LANGUAGES_LIST = {
     name: 'Traditional Chinese',
     nativeName: '正體字',
   },
-  "tw": {
+  tw: {
     name: 'Traditional Chinese',
     nativeName: '正體字',
   },

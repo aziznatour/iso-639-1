@@ -244,7 +244,7 @@ module.exports = function (it) {
 /***/ "./node_modules/core-js/library/modules/_core.js":
 /***/ (function(module, exports) {
 
-var core = module.exports = { version: '2.5.1' };
+var core = module.exports = { version: '2.5.3' };
 if (typeof __e == 'number') __e = core; // eslint-disable-line no-undef
 
 
@@ -1000,13 +1000,25 @@ var LANGUAGES_LIST = {
     name: 'Hausa',
     nativeName: 'هَوُسَ'
   },
+  haw: {
+    name: 'Hawaiian',
+    nativeName: 'ʻŌlelo Hawaiʻi'
+  },
   he: {
+    name: 'Hebrew',
+    nativeName: 'עברית'
+  },
+  iw: {
     name: 'Hebrew',
     nativeName: 'עברית'
   },
   hi: {
     name: 'Hindi',
     nativeName: 'हिन्दी'
+  },
+  hmn: {
+    name: 'Hmong',
+    nativeName: 'Tiếng H\'Mông'
   },
   ho: {
     name: 'Hiri Motu',
@@ -1078,7 +1090,11 @@ var LANGUAGES_LIST = {
   },
   jv: {
     name: 'Javanese',
-    nativeName: 'basa Jawa'
+    nativeName: 'ꦧꦱꦗꦮ'
+  },
+  jw: {
+    name: 'Javanese',
+    nativeName: 'ꦧꦱꦗꦮ'
   },
   ka: {
     name: 'Georgian',
@@ -1281,7 +1297,7 @@ var LANGUAGES_LIST = {
     nativeName: 'ирон æвзаг'
   },
   pa: {
-    name: 'Panjabi',
+    name: 'Punjabi',
     nativeName: 'ਪੰਜਾਬੀ'
   },
   pi: {
@@ -1444,7 +1460,7 @@ var LANGUAGES_LIST = {
     name: 'Tatar',
     nativeName: 'татар теле'
   },
-  tw: {
+  twi: {
     name: 'Twi',
     nativeName: 'Twi'
   },
@@ -1507,6 +1523,18 @@ var LANGUAGES_LIST = {
   zh: {
     name: 'Chinese',
     nativeName: '中文'
+  },
+  "zh-cn": {
+    name: 'Simplified Chinese',
+    nativeName: '简化字'
+  },
+  "zh-tw": {
+    name: 'Traditional Chinese',
+    nativeName: '正體字'
+  },
+  tw: {
+    name: 'Traditional Chinese',
+    nativeName: '正體字'
   },
   zu: {
     name: 'Zulu',
