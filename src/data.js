@@ -95,6 +95,10 @@ const LANGUAGES_LIST = {
     name: 'Chechen',
     nativeName: 'нохчийн мотт',
   },
+  ceb: {
+    name: 'Cebuano',
+    nativeName: 'Sebwano',
+  },
   cha: {
     name: 'Chamorro',
     nativeName: 'Chamoru',
