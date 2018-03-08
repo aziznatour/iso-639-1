@@ -1444,6 +1444,10 @@ var LANGUAGES_LIST = {
     name: 'Tagalog',
     nativeName: 'Wikang Tagalog'
   },
+  fil: {
+    name: 'Filipino',
+    nativeName: 'Wikang Filipino'
+  },
   tn: {
     name: 'Tswana',
     nativeName: 'Setswana'
